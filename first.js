@@ -10,10 +10,10 @@ var randomnumber1=random();
 var randomnumber2=random();
 
 var randomDiceImage="dice"+randomnumber1+".png";
-var randomImageSrc="images/"+randomDiceImage;
+var randomImageSrc=randomDiceImage;
 
 var randomDiceImage2="dice"+randomnumber2+".png";
-var randomImageSrc2="images/"+randomDiceImage2;
+var randomImageSrc2=randomDiceImage2;
 
 
 
